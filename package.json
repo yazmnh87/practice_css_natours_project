@@ -2,6 +2,9 @@
   "name": "css_mastercourse_natours",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
   "repository": "https://github.com/yazmnh87/practice_css_natours_project.git",
   "author": "William Violette <violettewj@gmail.com>",
   "license": "MIT",
