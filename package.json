@@ -1,0 +1,13 @@
+{
+  "name": "css_mastercourse_natours",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yazmnh87/practice_css_natours_project.git",
+  "author": "William Violette <violettewj@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
